@@ -1,0 +1,1184 @@
+{
+  "thong_tin_nghi_dinh": {
+    "so": "168/2024/NĐ-CP",
+    "ngay_ban_hanh": "26/12/2024",
+    "ngay_ky": "22/05/2024",
+    "tieu_de": "NGHỊ ĐỊNH QUY ĐỊNH XỬ PHẠT VI PHẠM HÀNH CHÍNH VỀ TRẬT TỰ, AN TOÀN GIAO THÔNG TRONG LĨNH VỰC GIAO THÔNG ĐƯỜNG BỘ; TRỪ ĐIỂM, PHỤC HỒI ĐIỂM GIẤY PHÉP LÁI XE",
+    "co_quan_ban_hanh": "Chính phủ"
+  },
+
+  "tat_ca_vi_pham": [
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Không chấp hành biển báo hiệu, vạch kẻ đường",
+      "dieu_khoan": "Điều 6 khoản 1 điểm a",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường",
+      "keywords": ["biển báo", "vạch kẻ đường", "không chấp hành"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Chuyển làn đường không đúng nơi cho phép",
+      "dieu_khoan": "Điều 6 khoản 2 điểm a",
+      "muc_phat": "600.000 - 800.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước",
+      "keywords": ["chuyển làn", "đổi làn", "chuyển làn sai"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Chở người quá số lượng quy định",
+      "dieu_khoan": "Điều 6 khoản 2 điểm b",
+      "muc_phat": "600.000 - 800.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Chở người trên buồng lái quá số lượng quy định",
+      "keywords": ["chở quá người", "quá tải người", "số người vượt quá"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Chạy quá tốc độ 5-10 km/h",
+      "dieu_khoan": "Điều 6 khoản 3 điểm a",
+      "muc_phat": "800.000 - 1.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h",
+      "keywords": ["quá tốc độ", "vượt tốc độ", "chạy nhanh"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Sử dụng còi, rú ga liên tục",
+      "dieu_khoan": "Điều 6 khoản 3 điểm b",
+      "muc_phat": "800.000 - 1.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Sử dụng còi, rú ga liên tục gây ồn ào",
+      "keywords": ["bóp còi", "rú ga", "còi xe", "gây ồn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Chuyển hướng không quan sát",
+      "dieu_khoan": "Điều 6 khoản 3 điểm c",
+      "muc_phat": "800.000 - 1.000.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Chuyển hướng không quan sát hoặc không bảo đảm khoảng cách an toàn",
+      "keywords": ["chuyển hướng", "rẽ không xi nhan", "quay đầu"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Không thắt dây an toàn",
+      "dieu_khoan": "Điều 6 khoản 3 điểm k",
+      "muc_phat": "800.000 - 1.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Không thắt dây đai an toàn khi điều khiển xe chạy trên đường",
+      "keywords": ["dây an toàn", "không thắt dây", "an toàn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Chở người không thắt dây an toàn",
+      "dieu_khoan": "Điều 6 khoản 3 điểm l",
+      "muc_phat": "800.000 - 1.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Chở người trên xe ô tô không thắt dây đai an toàn khi xe đang chạy",
+      "keywords": ["hành khách không thắt dây", "dây an toàn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Dừng đỗ sai quy định tại đường giao nhau",
+      "dieu_khoan": "Điều 6 khoản 3 điểm đ",
+      "muc_phat": "800.000 - 1.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Dừng xe, đỗ xe tại vị trí đường bộ giao nhau hoặc trong phạm vi 5 mét",
+      "keywords": ["dừng đỗ sai", "đường giao nhau", "cấm dừng đỗ"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Không nhường đường cho xe xin vượt",
+      "dieu_khoan": "Điều 6 khoản 4 điểm d",
+      "muc_phat": "2.000.000 - 3.000.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Không nhường đường cho xe xin vượt khi có đủ điều kiện an toàn",
+      "keywords": ["nhường đường", "xin vượt", "không nhường"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Lùi xe ở đường một chiều",
+      "dieu_khoan": "Điều 6 khoản 4 điểm e",
+      "muc_phat": "2.000.000 - 3.000.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Lùi xe ở đường một chiều, đường có biển 'Cấm đi ngược chiều'",
+      "keywords": ["lùi xe", "đường một chiều", "lùi trái quy định"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Quay đầu xe tại nơi cấm",
+      "dieu_khoan": "Điều 6 khoản 4 điểm i",
+      "muc_phat": "2.000.000 - 3.000.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Quay đầu xe ở phần đường dành cho người đi bộ, trên cầu, đầu cầu",
+      "keywords": ["quay đầu", "cấm quay đầu", "quay đầu sai chỗ"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Vượt xe trong trường hợp không được vượt",
+      "dieu_khoan": "Điều 6 khoản 5 điểm a",
+      "muc_phat": "4.000.000 - 6.000.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Vượt xe trong những trường hợp không được vượt, không có tín hiệu báo trước",
+      "keywords": ["vượt ẩu", "vượt sai", "vượt không an toàn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Đi không đúng phần đường, làn đường",
+      "dieu_khoan": "Điều 6 khoản 5 điểm b",
+      "muc_phat": "4.000.000 - 6.000.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Điều khiển xe không đi bên phải theo chiều đi, đi không đúng phần đường hoặc làn đường",
+      "keywords": ["sai làn", "sai lane", "đi sai làn", "làn đường"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Chạy quá tốc độ 10-20 km/h",
+      "dieu_khoan": "Điều 6 khoản 5 điểm đ đối với 10-20km/h ,Điều 6 khoản 6 điểm a đối với quá 20-35km/h ,Điều 6 khoản 7 điểm a đối với trên 35km/h",
+      "muc_phat": "4.000.000 - 6.000.000 VNĐ đối với 10-20km/h, 6.000.000 - 8.000.000 VNĐ đối với quá 20-35km/h,12.000.000 - 14.000.000 VNĐ đối với trên 35km/h",
+      "tru_diem": "2 (10-20km/h) 4 (20-35km/h) 6(>35km/h)",
+      "mo_ta": "Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h và 20-35km/h",
+      "keywords": ["quá tốc độ", "vượt tốc độ", "chạy nhanh"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Sử dụng điện thoại khi lái xe",
+      "dieu_khoan": "Điều 6 khoản 5 điểm h",
+      "muc_phat": "4.000.000 - 6.000.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác khi điều khiển xe",
+      "keywords": ["điện thoại", "sử dụng điện thoại", "nghe điện thoại"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Chuyển hướng không nhường đường cho người đi bộ",
+      "dieu_khoan": "Điều 6 khoản 5 điểm l",
+      "muc_phat": "4.000.000 - 6.000.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Chuyển hướng không nhường quyền đi trước cho người đi bộ qua đường",
+      "keywords": ["không nhường đường", "người đi bộ", "vượt qua vạch"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Chở người trên thùng xe",
+      "dieu_khoan": "Điều 6 khoản 5 điểm p",
+      "muc_phat": "4.000.000 - 6.000.000 VNĐ",
+      "tru_diem": 6,
+      "mo_ta": "Chở người trên thùng xe trái quy định, chở người trên nóc xe",
+      "keywords": ["chở trên thùng", "người trên nóc", "chở người sai"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Mở cửa xe không an toàn",
+      "dieu_khoan": "Điều 6 khoản 5 điểm q",
+      "muc_phat": "4.000.000 - 6.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Mở cửa xe, để cửa xe mở không bảo đảm an toàn",
+      "keywords": ["mở cửa xe", "cửa xe", "mở cửa nguy hiểm"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Chạy quá tốc độ 20-35 km/h",
+      "dieu_khoan": "Điều 6 khoản 6 điểm a",
+      "muc_phat": "6.000.000 - 8.000.000 VNĐ",
+      "tru_diem": 4,
+      "mo_ta": "Điều khiển xe chạy quá tốc độ quy định trên 20 km/h đến 35 km/h",
+      "keywords": ["quá tốc độ", "vượt tốc độ", "chạy nhanh"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Nồng độ cồn dưới 50mg/100ml máu",
+      "dieu_khoan": "Điều 6 khoản 6 điểm c",
+      "muc_phat": "6.000.000 - 8.000.000 VNĐ",
+      "tru_diem": 4,
+      "mo_ta": "Điều khiển xe trên đường mà trong máu có nồng độ cồn nhưng chưa vượt quá 50mg/100ml máu",
+      "keywords": ["uống rượu bia", "nồng độ cồn", "say xỉn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Đi trên vỉa hè",
+      "dieu_khoan": "Điều 6 khoản 6 điểm d",
+      "muc_phat": "6.000.000 - 8.000.000 VNĐ",
+      "tru_diem": 4,
+      "mo_ta": "Điều khiển xe đi trên vỉa hè, trừ trường hợp đi qua vỉa hè để vào nhà",
+      "keywords": ["đi vỉa hè", "lên vỉa hè", "xe trên hè phố"]
+    },
+
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Dừng đỗ sai trên đường cao tốc",
+      "dieu_khoan": "Điều 6 khoản 7 điểm c",
+      "muc_phat": "12.000.000 - 14.000.000 VNĐ",
+      "tru_diem": 6,
+      "mo_ta": "Dừng xe, đỗ xe trên đường cao tốc không đúng nơi quy định",
+      "keywords": ["đường cao tốc", "dừng đỗ sai", "cao tốc"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Bỏ chạy sau tai nạn",
+      "dieu_khoan": "Điều 6 khoản 8",
+      "muc_phat": "16.000.000 - 18.000.000 VNĐ",
+      "tru_diem": 6,
+      "mo_ta": "Gây tai nạn giao thông không dừng xe, không giữ nguyên hiện trường, không trợ giúp người bị nạn",
+      "keywords": ["bỏ chạy", "tai nạn", "trốn tránh"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Nồng độ cồn 50-80mg/100ml máu",
+      "dieu_khoan": "Điều 6 khoản 9 điểm a",
+      "muc_phat": "18.000.000 - 20.000.000 VNĐ",
+      "tru_diem": 10,
+      "mo_ta": "Điều khiển xe trên đường mà trong máu có nồng độ cồn vượt quá 50-80mg/100ml máu",
+      "keywords": ["uống rượu bia", "nồng độ cồn", "say xỉn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Vượt đèn đỏ",
+      "dieu_khoan": "Điều 6 khoản 9 điểm b",
+      "muc_phat": "18.000.000 - 22.000.000 VNĐ",
+      "tru_diem": 10,
+      "mo_ta": "Không chấp hành hiệu lệnh của đèn tín hiệu giao thông",
+      "keywords": ["vượt đèn đỏ", "chạy đèn đỏ", "không dừng đèn đỏ"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Không chấp hành hiệu lệnh CSGT",
+      "dieu_khoan": "Điều 6 khoản 9 điểm c",
+      "muc_phat": "18.000.000 - 22.000.000 VNĐ",
+      "tru_diem": 10,
+      "mo_ta": "Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông",
+      "keywords": ["cảnh sát giao thông", "hiệu lệnh", "CSGT"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Đi ngược chiều",
+      "dieu_khoan": "Điều 6 khoản 9 điểm d",
+      "muc_phat": "18.000.000 - 22.000.000 VNĐ",
+      "tru_diem": 10,
+      "mo_ta": "Đi ngược chiều của đường một chiều, đường có biển 'Cấm đi ngược chiều'",
+      "keywords": ["đi ngược chiều", "một chiều", "ngược đường"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Gây tai nạn do vi phạm tốc độ",
+      "dieu_khoan": "Điều 6 khoản 10 điểm a",
+      "muc_phat": "20.000.000 - 22.000.000 VNĐ",
+      "tru_diem": 10,
+      "mo_ta": "Điều khiển xe chạy quá tốc độ quy định gây tai nạn giao thông",
+      "keywords": ["tai nạn", "quá tốc độ", "gây tai nạn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Nồng độ cồn trên 80mg/100ml máu",
+      "dieu_khoan": "Điều 6 khoản 11 điểm a",
+      "muc_phat": "30.000.000 - 40.000.000 VNĐ",
+      "tru_diem": 10,
+      "mo_ta": "Điều khiển xe trên đường mà trong máu có nồng độ cồn vượt quá 80mg/100ml máu",
+      "keywords": ["uống rượu", "uống bia", "say rượu", "nồng độ cồn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Không chấp hành kiểm tra nồng độ cồn",
+      "dieu_khoan": "Điều 6 khoản 11 điểm b",
+      "muc_phat": "30.000.000 - 40.000.000 VNĐ",
+      "tru_diem": 10,
+      "mo_ta": "Không chấp hành yêu cầu kiểm tra về nồng độ cồn của người thi hành công vụ",
+      "keywords": ["từ chối thổi", "kiểm tra nồng độ cồn", "không hợp tác"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Sử dụng chất ma túy",
+      "dieu_khoan": "Điều 6 khoản 11 điểm c",
+      "muc_phat": "30.000.000 - 40.000.000 VNĐ",
+      "tru_diem": 10,
+      "mo_ta": "Điều khiển xe trên đường mà trong cơ thể có chất ma túy",
+      "keywords": ["ma túy", "chất kích thích", "sử dụng ma túy"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Đi ngược chiều trên đường cao tốc",
+      "dieu_khoan": "Điều 6 khoản 11 điểm đ",
+      "muc_phat": "30.000.000 - 40.000.000 VNĐ",
+      "tru_diem": 10,
+      "mo_ta": "Điều khiển xe đi ngược chiều trên đường cao tốc, lùi xe trên đường cao tốc",
+      "keywords": ["cao tốc", "đi ngược chiều", "lùi xe cao tốc"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Lạng lách, đánh võng",
+      "dieu_khoan": "Điều 6 khoản 12",
+      "muc_phat": "40.000.000 - 50.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe lạng lách, đánh võng trên đường bộ; chạy quá tốc độ đuổi nhau",
+      "keywords": ["lạng lách", "đánh võng", "đua xe"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Không báo hiệu bằng đèn khẩn cấp khi xe gặp sự cố",
+      "dieu_khoan": "Điều 6 khoản 1 điểm c",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Không báo hiệu bằng đèn khẩn cấp hoặc không đặt biển cảnh báo khi xe gặp sự cố kỹ thuật buộc phải đỗ xe chiếm phần đường",
+      "keywords": ["đèn khẩn cấp", "xe hỏng", "sự cố", "biển cảnh báo"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Không gắn biển báo hiệu xe kéo, xe được kéo",
+      "dieu_khoan": "Điều 6 khoản 1 điểm d",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Không gắn biển báo hiệu ở phía trước xe kéo, phía sau xe được kéo; điều khiển xe kéo rơ moóc không có biển báo hiệu",
+      "keywords": ["xe kéo", "rơ moóc", "biển báo hiệu", "kéo xe"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Sử dụng còi trong giờ cấm",
+      "dieu_khoan": "Điều 6 khoản 1 điểm đ",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Sử dụng còi trong thời gian từ 22 giờ đến 05 giờ trong khu đông dân cư, khu vực bệnh viện",
+      "keywords": ["bóp còi", "còi xe", "giờ cấm", "gây ồn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Không tuân thủ quy định nhường đường tại nơi giao nhau",
+      "dieu_khoan": "Điều 6 khoản 2 điểm c",
+      "muc_phat": "600.000 - 800.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Không tuân thủ các quy định về nhường đường tại nơi đường bộ giao nhau",
+      "keywords": ["nhường đường", "giao nhau", "ngã tư", "ngã ba"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Dừng xe không sát lề đường",
+      "dieu_khoan": "Điều 6 khoản 2 điểm đ",
+      "muc_phat": "600.000 - 800.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Dừng xe không sát theo lề đường, vỉa hè phía bên phải hoặc bánh xe cách lề đường quá 0,25 mét",
+      "keywords": ["dừng xe", "cách lề", "không sát lề", "vị trí dừng"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Rời vị trí lái khi dừng xe không an toàn",
+      "dieu_khoan": "Điều 6 khoản 2 điểm đ",
+      "muc_phat": "600.000 - 800.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Rời vị trí lái, tắt máy khi dừng xe hoặc rời vị trí lái khi dừng xe nhưng không sử dụng phanh đỗ xe",
+      "keywords": ["rời lái xe", "tắt máy", "phanh đỗ", "an toàn"]
+    },
+     {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Điều khiển xe chạy dưới tốc độ tối thiểu",
+      "dieu_khoan": "Điều 6 khoản 3 điểm o",
+      "muc_phat": "800.000 - 1.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe chạy dưới tốc độ tối thiểu trên đoạn đường bộ có quy định tốc độ tối thiểu",
+      "keywords": ["tốc độ tối thiểu", "chạy chậm", "cản trở"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Đi vào làn đường thu phí không dừng không đủ điều kiện",
+      "dieu_khoan": "Điều 6 khoản 4 điểm a",
+      "muc_phat": "2.000.000 - 3.000.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Điều khiển xe không đủ điều kiện để thu phí theo hình thức điện tử tự động không dừng đi vào làn đường dành riêng",
+      "keywords": ["làn thu phí", "thu phí không dừng", "thẻ ePass"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Dừng đỗ trên cầu, gầm cầu",
+      "dieu_khoan": "Điều 6 khoản 4 điểm b",
+      "muc_phat": "2.000.000 - 3.000.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Dừng xe, đỗ xe trên cầu, gầm cầu vượt, trên đoạn đường cong hoặc gần đầu dốc",
+      "keywords": ["trên cầu", "gầm cầu", "đường cong", "đầu dốc"]
+    },
+
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Lùi xe không quan sát",
+      "dieu_khoan": "Điều 6 khoản 4 điểm e",
+      "muc_phat": "2.000.000 - 3.000.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Lùi xe không quan sát hai bên, phía sau xe hoặc không có tín hiệu lùi xe",
+      "keywords": ["lùi xe", "không quan sát", "tín hiệu lùi"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Rẽ trái, rẽ phải tại nơi cấm",
+      "dieu_khoan": "Điều 6 khoản 4 điểm k",
+      "muc_phat": "2.000.000 - 3.000.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Điều khiển xe rẽ trái, rẽ phải tại nơi có biển báo hiệu có nội dung cấm rẽ",
+      "keywords": ["rẽ trái", "rẽ phải", "cấm rẽ", "biển cấm"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Lạng lách, đánh võng gây tai nạn",
+      "dieu_khoan": "Điều 6 khoản 13",
+      "muc_phat": "50.000.000 - 70.000.000 VNĐ",
+      "tru_diem": 10,
+      "mo_ta": "Điều khiển xe lạng lách, đánh võng mà gây tai nạn giao thông",
+      "keywords": ["lạng lách", "đánh võng", "tai nạn", "đua xe"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Không đội mũ bảo hiểm",
+      "dieu_khoan": "Điều 7 khoản 2 điểm h",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Không đội mũ bảo hiểm hoặc đội không đúng quy cách khi điều khiển mô tô, xe máy.",
+      "keywords": ["không đội mũ", "mũ bảo hiểm", "quên mũ"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Không chấp hành biển báo hiệu",
+      "dieu_khoan": "Điều 7 khoản 1 điểm a",
+      "muc_phat": "200.000 - 400.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường",
+      "keywords": ["biển báo", "vạch kẻ đường", "không chấp hành"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Không có tín hiệu khi vượt xe",
+      "dieu_khoan": "Điều 7 khoản 1 điểm b",
+      "muc_phat": "200.000 - 400.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Không có tín hiệu trước khi vượt hoặc không sử dụng trong suốt quá trình vượt xe",
+      "keywords": ["vượt xe", "không xi nhan", "vượt ẩu"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Chở người sử dụng ô (dù)",
+      "dieu_khoan": "Điều 7 khoản 1 điểm d",
+      "muc_phat": "200.000 - 400.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Chở người ngồi trên xe sử dụng ô (dù)",
+      "keywords": ["che ô", "sử dụng dù", "che mưa nắng"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Chuyển làn đường không đúng",
+      "dieu_khoan": "Điều 7 khoản 1 điểm e",
+      "muc_phat": "200.000 - 400.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước",
+      "keywords": ["chuyển làn", "đổi làn", "chuyển làn sai"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Không sử dụng đèn chiếu sáng",
+      "dieu_khoan": "Điều 7 khoản 1 điểm g",
+      "muc_phat": "200.000 - 400.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Không sử dụng đèn chiếu sáng trong thời gian từ 18h đến 6h hoặc khi thời tiết xấu",
+      "keywords": ["đèn xe", "không bật đèn", "đèn chiếu sáng"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Dừng đỗ gây cản trở giao thông",
+      "dieu_khoan": "Điều 7 khoản 2 điểm d",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Dừng xe, đỗ xe ở lòng đường gây cản trở giao thông",
+      "keywords": ["dừng đỗ sai", "cản trở", "đỗ xe vô ý thức"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Chở 3 người trên xe",
+      "dieu_khoan": "Điều 7 khoản 2 điểm g",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Chở theo 2 người trên xe (trừ trường hợp đặc biệt)",
+      "keywords": ["chở 3 người", "quá số người", "chở quá tải"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Không đội mũ bảo hiểm",
+      "dieu_khoan": "Điều 7 khoản 2 điểm h",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Không đội mũ bảo hiểm cho người đi mô tô, xe máy hoặc đội không cài quai đúng quy cách",
+      "keywords": ["không đội mũ", "mũ bảo hiểm", "quên mũ"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Chở người không đội mũ bảo hiểm",
+      "dieu_khoan": "Điều 7 khoản 2 điểm i",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Chở người ngồi trên xe không đội mũ bảo hiểm hoặc đội không cài quai đúng quy cách",
+      "keywords": ["người ngồi sau không mũ", "mũ bảo hiểm"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Chở 3 người trở lên",
+      "dieu_khoan": "Điều 7 khoản 3 điểm b",
+      "muc_phat": "600.000 - 800.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Chở theo từ 3 người trở lên trên xe",
+      "keywords": ["chở 3 người", "quá số người", "chở quá tải"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Đi không đúng phần đường, làn đường",
+      "dieu_khoan": "Điều 7 khoản 3 điểm d",
+      "muc_phat": "600.000 - 800.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe không đi bên phải theo chiều đi, đi không đúng phần đường, làn đường",
+      "keywords": ["sai làn", "sai lane", "đi sai làn", "làn đường"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Vượt bên phải không được phép",
+      "dieu_khoan": "Điều 7 khoản 3 điểm đ",
+      "muc_phat": "600.000 - 800.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Vượt bên phải trong trường hợp không được phép",
+      "keywords": ["vượt phải", "vượt ẩu", "vượt sai"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Bám kéo xe khác",
+      "dieu_khoan": "Điều 7 khoản 3 điểm e",
+      "muc_phat": "600.000 - 800.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Người điều khiển xe hoặc chở người bám, kéo, đẩy xe khác",
+      "keywords": ["bám xe", "kéo xe", "đẩy xe"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Đi dàn hàng ngang",
+      "dieu_khoan": "Điều 7 khoản 3 điểm k",
+      "muc_phat": "600.000 - 800.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe chạy dàn hàng ngang từ 3 xe trở lên",
+      "keywords": ["dàn hàng ngang", "đi hàng 3", "chạy song song"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Chạy quá tốc độ 10-20 km/h",
+      "dieu_khoan": "Điều 7 khoản 4 điểm a",
+      "muc_phat": "800.000 - 1.000.000 VNĐ",
+      "tru_diem": 4,
+      "mo_ta": "Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h",
+      "keywords": ["quá tốc độ", "vượt tốc độ", "chạy nhanh"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Sử dụng điện thoại khi lái xe",
+      "dieu_khoan": "Điều 7 khoản 4 điểm đ",
+      "muc_phat": "800.000 - 1.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Người đang điều khiển xe sử dụng điện thoại hoặc các thiết bị điện tử khác",
+      "keywords": ["điện thoại", "sử dụng điện thoại", "nghe điện thoại"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Bỏ chạy sau tai nạn",
+      "dieu_khoan": "Điều 7 khoản 5 điểm a",
+      "muc_phat": "1.000.000 - 2.000.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Điều khiển xe có liên quan đến tai nạn mà không dừng xe, không giữ nguyên hiện trường",
+      "keywords": ["bỏ chạy", "tai nạn", "trốn tránh"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Nồng độ cồn dưới 50mg/100ml máu",
+      "dieu_khoan": "Điều 7 khoản 6 điểm a",
+      "muc_phat": "2.000.000 - 3.000.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Điều khiển xe trên đường mà trong máu có nồng độ cồn nhưng chưa vượt quá 50mg/100ml máu",
+      "keywords": ["uống rượu bia", "nồng độ cồn", "say xỉn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Đi vào khu vực cấm",
+      "dieu_khoan": "Điều 7 khoản 6 điểm b",
+      "muc_phat": "2.000.000 - 3.000.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Đi vào khu vực cấm, đường có biển báo hiệu có nội dung cấm đi vào",
+      "keywords": ["khu vực cấm", "đường cấm", "cấm đi vào"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Đi ngược chiều",
+      "dieu_khoan": "Điều 7 khoản 7 điểm a",
+      "muc_phat": "4.000.000 - 6.000.000 VNĐ",
+      "tru_diem": 4,
+      "mo_ta": "Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển 'Cấm đi ngược chiều'",
+      "keywords": ["đi ngược chiều", "một chiều", "ngược đường"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Đi vào đường cao tốc",
+      "dieu_khoan": "Điều 7 khoản 7 điểm b",
+      "muc_phat": "4.000.000 - 6.000.000 VNĐ",
+      "tru_diem": 4,
+      "mo_ta": "Điều khiển xe đi vào đường cao tốc",
+      "keywords": ["đường cao tốc", "xe máy cao tốc", "cao tốc"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Vượt đèn đỏ",
+      "dieu_khoan": "Điều 7 khoản 7 điểm c",
+      "muc_phat": "4.000.000 - 6.000.000 VNĐ",
+      "tru_diem": 4,
+      "mo_ta": "Không chấp hành hiệu lệnh của đèn tín hiệu giao thông",
+      "keywords": ["vượt đèn đỏ", "chạy đèn đỏ", "không dừng đèn đỏ"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Không chấp hành hiệu lệnh CSGT",
+      "dieu_khoan": "Điều 7 khoản 7 điểm d",
+      "muc_phat": "4.000.000 - 6.000.000 VNĐ",
+      "tru_diem": 4,
+      "mo_ta": "Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông",
+      "keywords": ["cảnh sát giao thông", "hiệu lệnh", "CSGT"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Chạy quá tốc độ trên 20 km/h",
+      "dieu_khoan": "Điều 7 khoản 8 điểm a",
+      "muc_phat": "6.000.000 - 8.000.000 VNĐ",
+      "tru_diem": 4,
+      "mo_ta": "Điều khiển xe chạy quá tốc độ quy định trên 20 km/h",
+      "keywords": ["quá tốc độ", "vượt tốc độ", "chạy nhanh"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Nồng độ cồn 50-80mg/100ml máu",
+      "dieu_khoan": "Điều 7 khoản 8 điểm b",
+      "muc_phat": "6.000.000 - 8.000.000 VNĐ",
+      "tru_diem": 10,
+      "mo_ta": "Điều khiển xe trên đường mà trong máu có nồng độ cồn vượt quá 50-80mg/100ml máu",
+      "keywords": ["uống rượu bia", "nồng độ cồn", "say xỉn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Lạng lách, đánh võng",
+      "dieu_khoan": "Điều 7 khoản 9 điểm a",
+      "muc_phat": "8.000.000 - 10.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe lạng lách, đánh võng trên đường bộ",
+      "keywords": ["lạng lách", "đánh võng", "đua xe"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Chạy tốc độ thành nhóm",
+      "dieu_khoan": "Điều 7 khoản 9 điểm b",
+      "muc_phat": "8.000.000 - 10.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe thành nhóm từ 2 xe trở lên chạy quá tốc độ quy định",
+      "keywords": ["chạy tốc độ", "nhóm xe", "đua xe"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Bỏ chạy sau tai nạn",
+      "dieu_khoan": "Điều 7 khoản 9 điểm c",
+      "muc_phat": "8.000.000 - 10.000.000 VNĐ",
+      "tru_diem": 6,
+      "mo_ta": "Gây tai nạn giao thông không dừng xe, không giữ nguyên hiện trường",
+      "keywords": ["bỏ chạy", "tai nạn", "trốn tránh"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Nồng độ cồn trên 80mg/100ml máu",
+      "dieu_khoan": "Điều 7 khoản 9 điểm d",
+      "muc_phat": "8.000.000 - 10.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe trên đường mà trong máu có nồng độ cồn vượt quá 80mg/100ml máu",
+      "keywords": ["uống rượu bia", "nồng độ cồn", "say xỉn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Sử dụng chất ma túy",
+      "dieu_khoan": "Điều 7 khoản 9 điểm e",
+      "muc_phat": "8.000.000 - 10.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe trên đường mà trong cơ thể có chất ma túy",
+      "keywords": ["ma túy", "chất kích thích", "sử dụng ma túy"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_dap",
+      "ten_vi_pham": "Không đi bên phải theo chiều đi",
+      "dieu_khoan": "Điều 9 khoản 1 điểm a",
+      "muc_phat": "100.000 - 200.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Không đi bên phải theo chiều đi của mình, đi không đúng phần đường quy định",
+      "keywords": ["sai đường", "không đi bên phải", "sai phần đường"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_dap",
+      "ten_vi_pham": "Dừng xe đột ngột",
+      "dieu_khoan": "Điều 9 khoản 1 điểm b",
+      "muc_phat": "100.000 - 200.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Dừng xe đột ngột; chuyển hướng không báo hiệu trước",
+      "keywords": ["dừng đột ngột", "phanh gấp", "chuyển hướng"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_dap",
+      "ten_vi_pham": "Đi dàn hàng ngang",
+      "dieu_khoan": "Điều 9 khoản 1 điểm g",
+      "muc_phat": "100.000 - 200.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe đạp, xe đạp máy đi dàn hàng ngang từ 3 xe trở lên",
+      "keywords": ["dàn hàng ngang", "đi hàng 3", "chạy song song"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_dap",
+      "ten_vi_pham": "Sử dụng điện thoại khi điều khiển xe",
+      "dieu_khoan": "Điều 9 khoản 1 điểm h",
+      "muc_phat": "100.000 - 200.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Người điều khiển xe đạp, xe đạp máy sử dụng điện thoại hoặc các thiết bị điện tử khác",
+      "keywords": ["điện thoại", "sử dụng điện thoại", "nghe điện thoại"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_dap",
+      "ten_vi_pham": "Buông cả hai tay",
+      "dieu_khoan": "Điều 9 khoản 2 điểm a",
+      "muc_phat": "150.000 - 250.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe đạp, xe đạp máy buông cả hai tay",
+      "keywords": ["buông tay", "không cầm lái", "buông cả hai tay"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_dap",
+      "ten_vi_pham": "Không chấp hành hiệu lệnh CSGT",
+      "dieu_khoan": "Điều 9 khoản 2 điểm b",
+      "muc_phat": "150.000 - 250.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Không chấp hành hiệu lệnh, chỉ dẫn của người điều khiển giao thông",
+      "keywords": ["cảnh sát giao thông", "hiệu lệnh", "CSGT"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_dap",
+      "ten_vi_pham": "Lạng lách, đánh võng",
+      "dieu_khoan": "Điều 9 khoản 3 điểm a",
+      "muc_phat": "300.000 - 400.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe lạng lách, đánh võng; đuổi nhau trên đường",
+      "keywords": ["lạng lách", "đánh võng", "đua xe"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_dap",
+      "ten_vi_pham": "Đi bằng một bánh",
+      "dieu_khoan": "Điều 9 khoản 3 điểm b",
+      "muc_phat": "300.000 - 400.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Đi xe bằng một bánh đối với xe đạp, xe đạp máy",
+      "keywords": ["một bánh", "đi một bánh", "biểu diễn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_dap",
+      "ten_vi_pham": "Đi ngược chiều",
+      "dieu_khoan": "Điều 9 khoản 3 điểm c",
+      "muc_phat": "300.000 - 400.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Đi vào khu vực cấm, đi ngược chiều đường một chiều",
+      "keywords": ["đi ngược chiều", "một chiều", "ngược đường"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_dap",
+      "ten_vi_pham": "Nồng độ cồn 50-80mg/100ml máu",
+      "dieu_khoan": "Điều 9 khoản 3 điểm d",
+      "muc_phat": "300.000 - 400.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe trên đường mà trong máu có nồng độ cồn vượt quá 50-80mg/100ml máu",
+      "keywords": ["uống rượu bia", "nồng độ cồn", "say xỉn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_dap",
+      "ten_vi_pham": "Bỏ chạy sau tai nạn",
+      "dieu_khoan": "Điều 9 khoản 4 điểm a",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Gây tai nạn giao thông không dừng xe, không giữ nguyên hiện trường",
+      "keywords": ["bỏ chạy", "tai nạn", "trốn tránh"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_dap",
+      "ten_vi_pham": "Nồng độ cồn trên 80mg/100ml máu",
+      "dieu_khoan": "Điều 9 khoản 4 điểm b",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe trên đường mà trong máu có nồng độ cồn vượt quá 80mg/100ml máu",
+      "keywords": ["uống rượu bia", "nồng độ cồn", "say xỉn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_dap",
+      "ten_vi_pham": "Không đội mũ bảo hiểm xe đạp máy",
+      "dieu_khoan": "Điều 9 khoản 4 điểm d",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Người điều khiển xe đạp máy không đội mũ bảo hiểm hoặc đội không cài quai đúng quy cách",
+      "keywords": ["không đội mũ", "mũ bảo hiểm", "quên mũ"]
+    },
+    {
+  "nhom": "vi_pham_chi_tiet",
+  "loai_phuong_tien": "xe_dap",
+  "ten_vi_pham": "Điều khiển xe dàn hàng ngang",
+  "dieu_khoan": "Điều 9 khoản 1 điểm g",
+  "muc_phat": "100.000 - 200.000 VNĐ",
+  "tru_diem": 0,
+  "mo_ta": "Điều khiển xe đạp đi dàn hàng ngang từ 02 xe trở lên.",
+  "keywords": ["dàn hàng ngang", "đi hàng 2", "cản trở giao thông"]
+},
+{
+  "nhom": "vi_pham_chi_tiet",
+  "loai_phuong_tien": "xe_dap",
+  "ten_vi_pham": "Để xe ở lòng đường, vỉa hè trái phép",
+  "dieu_khoan": "Điều 9 khoản 1 điểm k",
+  "muc_phat": "100.000 - 200.000 VNĐ",
+  "tru_diem": 0,
+  "mo_ta": "Để xe ở lòng đường, vỉa hè trái phép; đỗ xe gây cản trở giao thông.",
+  "keywords": ["đỗ xe sai quy định", "để xe vô ý thức", "cản trở"]
+},
+{
+  "nhom": "vi_pham_chi_tiet",
+  "loai_phuong_tien": "xe_dap",
+  "ten_vi_pham": "Dừng xe đẩy làm quầy hàng lưu động",
+  "dieu_khoan": "Điều 9 khoản 1 điểm m",
+  "muc_phat": "100.000 - 200.000 VNĐ",
+  "tru_diem": 0,
+  "mo_ta": "Dừng xe đẩy làm quầy hàng lưu động trên đường gây cản trở giao thông.",
+  "keywords": ["bán hàng rong", "quầy hàng lưu động", "xe đẩy"]
+},
+    {
+  "nhom": "vi_pham_chi_tiet",
+  "loai_phuong_tien": "xe_dap",
+  "ten_vi_pham": "Đi xe đạp không đúng phần đường, làn đường",
+  "dieu_khoan": "Điều 9 khoản 1 điểm a",
+  "muc_phat": "100.000 - 200.000 VNĐ",
+  "tru_diem": 0,
+  "mo_ta": "Người điều khiển xe đạp không đi bên phải theo chiều đi của mình, đi không đúng phần đường quy định.",
+  "keywords": ["sai làn đường", "sai phần đường", "không đi bên phải", "xe đạp đi sai lane"]
+},
+{
+  "nhom": "vi_pham_chi_tiet",
+  "loai_phuong_tien": "xe_dap",
+  "ten_vi_pham": "Không nhường đường cho xe ưu tiên",
+  "dieu_khoan": "Điều 9 khoản 2 điểm d",
+  "muc_phat": "150.000 - 250.000 VNĐ",
+  "tru_diem": 0,
+  "mo_ta": "Không nhường đường hoặc gây cản trở xe ưu tiên đang làm nhiệm vụ.",
+  "keywords": ["xe ưu tiên", "không nhường đường", "cứu thương, cứu hỏa"]
+},
+{
+  "nhom": "vi_pham_chi_tiet",
+  "loai_phuong_tien": "xe_dap",
+  "ten_vi_pham": "Vượt đèn đỏ",
+  "dieu_khoan": "Điều 9 khoản 2 điểm đ",
+  "muc_phat": "150.000 - 250.000 VNĐ",
+  "tru_diem": 0,
+  "mo_ta": "Không chấp hành hiệu lệnh của đèn tín hiệu giao thông.",
+  "keywords": ["vượt đèn đỏ", "đèn tín hiệu"]
+},
+     {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "nguoi_di_bo",
+      "ten_vi_pham": "Không đi đúng phần đường",
+      "dieu_khoan": "Điều 10 khoản 1 điểm a",
+      "muc_phat": "150.000 - 250.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Không đi đúng phần đường quy định; vượt qua dải phân cách; đi qua đường không đúng nơi quy định",
+      "keywords": ["sang đường", "vượt dải phân cách", "sai phần đường"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "nguoi_di_bo",
+      "ten_vi_pham": "Không chấp hành đèn tín hiệu",
+      "dieu_khoan": "Điều 10 khoản 1 điểm b",
+      "muc_phat": "150.000 - 250.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Không chấp hành hiệu lệnh hoặc chỉ dẫn của đèn tín hiệu, biển báo hiệu, vạch kẻ đường",
+      "keywords": ["đèn tín hiệu", "biển báo", "vạch kẻ đường"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "nguoi_di_bo",
+      "ten_vi_pham": "Đi vào đường cao tốc",
+      "dieu_khoan": "Điều 10 khoản 2 điểm a",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Đi vào đường cao tốc, trừ người phục vụ việc quản lý, bảo trì đường cao tốc",
+      "keywords": ["đường cao tốc", "đi bộ cao tốc", "cao tốc"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "nguoi_di_bo",
+      "ten_vi_pham": "Mang vác vật cồng kềnh",
+      "dieu_khoan": "Điều 10 khoản 2 điểm b",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Mang, vác vật cồng kềnh gây cản trở giao thông",
+      "keywords": ["vật cồng kềnh", "mang vác", "cản trở"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "nguoi_di_bo",
+      "ten_vi_pham": "Bám vào phương tiện đang chạy",
+      "dieu_khoan": "Điều 10 khoản 2 điểm c",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Du, bám vào phương tiện giao thông đang chạy",
+      "keywords": ["bám xe", "đu bám", "bám theo xe"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_may_chuyen_dung",
+      "ten_vi_pham": "Không chấp hành biển báo hiệu",
+      "dieu_khoan": "Điều 8 khoản 1 điểm a",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường",
+      "keywords": ["biển báo", "vạch kẻ đường", "không chấp hành"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_may_chuyen_dung",
+      "ten_vi_pham": "Dừng đỗ sai quy định",
+      "dieu_khoan": "Điều 8 khoản 2 điểm a",
+      "muc_phat": "600.000 - 800.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Dừng xe, đỗ xe trên phần đường xe chạy ở đoạn đường ngoài đô thị nơi có lề đường rộng",
+      "keywords": ["dừng đỗ sai", "đỗ xe", "cấm dừng đỗ"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_may_chuyen_dung",
+      "ten_vi_pham": "Chạy quá tốc độ 5-10 km/h",
+      "dieu_khoan": "Điều 8 khoản 3 điểm a",
+      "muc_phat": "800.000 - 1.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h",
+      "keywords": ["quá tốc độ", "vượt tốc độ", "chạy nhanh"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_may_chuyen_dung",
+      "ten_vi_pham": "Chạy quá tốc độ 10-20 km/h",
+      "dieu_khoan": "Điều 8 khoản 4 điểm a",
+      "muc_phat": "1.000.000 - 2.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Chạy quá tốc độ quy định từ 10 km/h đến 20 km/h",
+      "keywords": ["quá tốc độ", "vượt tốc độ", "chạy nhanh"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_may_chuyen_dung",
+      "ten_vi_pham": "Chạy quá tốc độ trên 20 km/h",
+      "dieu_khoan": "Điều 8 khoản 6 điểm a",
+      "muc_phat": "3.000.000 - 5.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Chạy quá tốc độ quy định trên 20 km/h",
+      "keywords": ["quá tốc độ", "vượt tốc độ", "chạy nhanh"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_may_chuyen_dung",
+      "ten_vi_pham": "Nồng độ cồn dưới 50mg/100ml máu",
+      "dieu_khoan": "Điều 8 khoản 6 điểm c",
+      "muc_phat": "3.000.000 - 5.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe trên đường mà trong máu có nồng độ cồn nhưng chưa vượt quá 50mg/100ml máu",
+      "keywords": ["uống rượu bia", "nồng độ cồn", "say xỉn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_may_chuyen_dung",
+      "ten_vi_pham": "Nồng độ cồn 50-80mg/100ml máu",
+      "dieu_khoan": "Điều 8 khoản 7 điểm a",
+      "muc_phat": "6.000.000 - 8.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe trên đường mà trong máu có nồng độ cồn vượt quá 50-80mg/100ml máu",
+      "keywords": ["uống rượu bia", "nồng độ cồn", "say xỉn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_may_chuyen_dung",
+      "ten_vi_pham": "Nồng độ cồn trên 80mg/100ml máu",
+      "dieu_khoan": "Điều 8 khoản 9 điểm a",
+      "muc_phat": "18.000.000 - 20.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe trên đường mà trong máu có nồng độ cồn vượt quá 80mg/100ml máu",
+      "keywords": ["uống rượu bia", "nồng độ cồn", "say xỉn"]
+    },
+    {
+      "nhom": "vi_pham_chi_tiet",
+      "loai_phuong_tien": "xe_may_chuyen_dung",
+      "ten_vi_pham": "Sử dụng chất ma túy",
+      "dieu_khoan": "Điều 8 khoản 9 điểm c",
+      "muc_phat": "18.000.000 - 20.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe trên đường mà trong cơ thể có chất ma túy",
+      "keywords": ["ma túy", "chất kích thích", "sử dụng ma túy"]
+    },
+    {
+      "nhom": "dieu_kien_lai_xe",
+      "loai_phuong_tien": "xe_moto_xe_may",
+      "ten_vi_pham": "Không có giấy phép lái xe (mô tô)",
+      "dieu_khoan": "Điều 18 khoản 5 điểm a",
+      "muc_phat": "2.000.000 - 4.000.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Điều khiển xe mô tô không có giấy phép lái xe hoặc sử dụng GPLX không hợp lệ.",
+      "keywords": ["không có bằng lái xe máy", "thiếu bằng", "GPLX mô tô"]
+    },
+    {
+  "nhom": "dieu_kien_lai_xe",
+  "loai_phuong_tien": "xe_oto",
+  "ten_vi_pham": "Điều khiển xe ô tô không có Giấy phép lái xe",
+  "dieu_khoan": "Điều 18 khoản 9 điểm b",
+  "muc_phat": "18.000.000 - 20.000.000 VNĐ",
+  "tru_diem": 0,
+  "mo_ta": "Điều khiển xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ và các loại xe tương tự xe ô tô khi không có Giấy phép lái xe (GPLX).",
+  "keywords": ["không có bằng lái", "không có GPLX", "thiếu bằng lái ô tô", "phạt không bằng lái"]
+},
+    {
+      "nhom": "dieu_kien_phuong_tien",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Không có đèn chiếu sáng, còi",
+      "dieu_khoan": "Điều 13 khoản 2",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Điều khiển xe ô tô không có đủ đèn chiếu sáng, còi hoặc có nhưng không hoạt động.",
+      "keywords": ["không có đèn", "đèn hỏng", "không còi"]
+    },
+    {
+      "nhom": "dieu_kien_phuong_tien",
+      "loai_phuong_tien": "xe_moto",
+      "ten_vi_pham": "Không có giấy đăng ký xe",
+      "dieu_khoan": "Điều 14 khoản 2 điểm a",
+      "muc_phat": "2.000.000 - 3.000.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Điều khiển xe mô tô không có chứng nhận đăng ký xe hoặc sử dụng giấy đăng ký xe đã hết hạn.",
+      "keywords": ["không có giấy đăng ký", "hết hạn đăng ký"]
+    },
+    {
+      "nhom": "bao_ve_moi_truong",
+      "loai_phuong_tien": "xe_oto",
+      "ten_vi_pham": "Đổ rác trái phép ra đường phố",
+      "dieu_khoan": "Điều 17 khoản 4",
+      "muc_phat": "10.000.000 - 15.000.000 VNĐ",
+      "tru_diem": 2,
+      "mo_ta": "Đổ rác, đất, cát hoặc vật liệu trái phép ra đường phố.",
+      "keywords": ["đổ rác", "vứt rác", "rác thải"]
+    },
+    {
+      "nhom": "nguoi_di_bo",
+      "loai_phuong_tien": "nguoi_di_bo",
+      "ten_vi_pham": "Đi vào đường cao tốc",
+      "dieu_khoan": "Điều 10 khoản 2 điểm a",
+      "muc_phat": "400.000 - 600.000 VNĐ",
+      "tru_diem": 0,
+      "mo_ta": "Người đi bộ đi vào đường cao tốc (trừ người phục vụ quản lý, bảo trì).",
+      "keywords": ["đi bộ vào cao tốc", "vào đường cao tốc"]
+    }
+
+  ],
+
+  "hinh_thuc_xu_phat": {
+    "chinh": ["Cảnh cáo", "Phạt tiền", "Tịch thu phương tiện"],
+    "bo_sung": ["Tước GPLX có thời hạn", "Đình chỉ hoạt động", "Tịch thu tang vật"],
+    "khac_phuc": ["Buộc khôi phục hiện trạng", "Buộc khắc phục môi trường", "Nộp lại lợi bất hợp pháp"]
+  },
+
+  "thoi_hieu_xu_phat": "01 năm"
+
+}
